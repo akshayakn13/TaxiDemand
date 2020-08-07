@@ -34,10 +34,10 @@ Trained two different models and their performance are as follows:
 2. **XGBoost Regressor** - Test MAPE - 0.0974
 
 # Credits
-www.appliedai.com - for providing the resources
-www.kaggle.com
-https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/
-Goolge Colaboratory
-NYC Taxi and Limousine Commission (TLC)
+1. www.appliedai.com - for providing the resources
+2. www.kaggle.com
+3. https://grisha.org/blog/2016/02/16/triple-exponential-smoothing-forecasting-part-ii/
+4. Goolge Colaboratory
+5. NYC Taxi and Limousine Commission (TLC)
 
 #### Any code related issues contact me on my id- akshayakn95@gmail.com
